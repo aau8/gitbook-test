@@ -13,6 +13,28 @@ description: Краткое описание страницы
 
 Это пример страницы
 
+***
+
+{% hint style="info" %}
+Доп. информация
+{% endhint %}
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td>свысыс</td></tr><tr><td></td><td></td><td>ыыыыыы</td></tr></tbody></table>
+
+{% swagger method="get" path="" baseUrl="" summary="" %}
+{% swagger-description %}
+
+{% endswagger-description %}
+{% endswagger %}
+
+{% swagger src="https://stage-api.vpluse.me/competitions/openapi.json" path="/admin/competition/" method="get" %}
+[https://stage-api.vpluse.me/competitions/openapi.json](https://stage-api.vpluse.me/competitions/openapi.json)
+{% endswagger %}
+
+
+
+
+
 | Название | Тип    | Описание |
 | -------- | ------ | -------- |
 | id       | int    | id       |

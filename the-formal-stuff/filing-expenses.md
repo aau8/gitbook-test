@@ -13,3 +13,16 @@ To get reimbursed for your expenses, just fill in our simple form and we'll get 
 {% endhint %}
 
 {% embed url="https://2w3pnm4iy73.typeform.com/to/e51Urcwb" %}
+
+{% tabs %}
+{% tab title="First Tab" %}
+авпавпав
+{% endtab %}
+
+{% tab title="Second Tab" %}
+уцуццццц
+{% endtab %}
+{% endtabs %}
+
+Hello, world!
+
